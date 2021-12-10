@@ -897,3 +897,34 @@
 29; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
 30; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
 
+1; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+2; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+3; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+4; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+5; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+6; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+7; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+8; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+9; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+10; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+11; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+12; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+13; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+14; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+15; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+16; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+17; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+18; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+19; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+20; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+21; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+22; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+23; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+24; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+25; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+26; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+27; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+28; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 300
+29; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 240
+30; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; [inimigo3, (200, -50)]; 360
+
