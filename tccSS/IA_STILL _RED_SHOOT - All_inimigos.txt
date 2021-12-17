@@ -30,8 +30,8 @@
 30; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 100
 
 1; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
-120
-2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 240
+2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
+3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 240
 4; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
 5; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 80
 6; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 100
@@ -93,8 +93,8 @@
 
 1; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 20
 2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 220
-220
-3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 4; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 240
+3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 220
+4; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 240
 5; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 100
 6; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 80
 7; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
@@ -557,8 +557,8 @@
 30; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
 
 1; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
-120
-2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 240
+2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
+3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 240
 4; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 80
 5; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 100
 6; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 80
@@ -650,8 +650,8 @@
 30; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
 
 1; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 100
-100
-2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 220
+2; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 100
+3; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 220
 4; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
 5; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 80
 6; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; [inimigos, (90, -50)]; 120
