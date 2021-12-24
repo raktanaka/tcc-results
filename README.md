@@ -1,9 +1,9 @@
 # MAC0499 - TCC - Análise Exploratória de Dados para os testes feitos nos jogos tccTD and tccSS (2021)
 
 ### Autor:
- - Daniel Hotta
- - Rafael Silva
- - Ricardo Tanaka
+ - [Daniel Hotta](https://github.com/HiimHotta)
+ - [Rafael Silva](https://github.com/RGPRafael)
+ - [Ricardo Tanaka](https://github.com/raktanaka)
 
 
 ## Descrição
